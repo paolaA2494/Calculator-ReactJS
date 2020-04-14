@@ -1,0 +1,48 @@
+.button {
+   display: flex;
+   height: 4em;
+   flex: 1;
+   justify-content: center;
+   align-items: center; 
+   font-weight: bold;
+   font-size: 1.4em;
+   background-color: grey;
+   color: white;
+   outline: 1px solid #888;
+}
+
+.clear-btn{
+   display: flex;
+   height: 4em;
+   flex: 1;
+   justify-content: center;
+   align-items: center; 
+   font-weight: bold;
+   font-size: 1.4em;
+   background-color: grey;
+   color: white;
+   outline: 1px solid #888;
+
+}
+
+
+.operator{
+   background-color: rgb(211, 209, 209);
+   color: white;
+   
+}
+
+.operator2{
+   background-color: rgb(170, 46, 46);
+   color: white;
+   
+}
+
+.operator3{
+   background-color: rgb(46, 46, 199);
+   color: white;
+   
+      
+}
+
+
