@@ -1,5 +1,14 @@
+body{
+    background-color: darkcyan;
+}
+
+h1{
+    
+    text-align: center;
+}
 .App{
-    margin-top: 100px;
+    
+    margin-top: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
